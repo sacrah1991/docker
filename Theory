@@ -1,0 +1,3 @@
+Docker image is set of instruction used to create container and execute code inside it.
+Docker volume are bassically persistance location for containers. They can be easily & safely attach and dettach from diffrent container 
+and they portable from system to another.
