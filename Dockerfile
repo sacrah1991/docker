@@ -13,3 +13,6 @@ EXPOSE 8080
 test01- container name 
 -p - port mapping
 tomcat - image name
+
+
+Refrence: https://www.middlewareinventory.com/blog/docker-tomcat-example-dockerfile-sample/
